@@ -1,0 +1,13 @@
+6684880 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+6669326 + 0 mapped (99.77% : N/A)
+6684880 + 0 paired in sequencing
+3342440 + 0 read1
+3342440 + 0 read2
+6484128 + 0 properly paired (97.00% : N/A)
+6657004 + 0 with itself and mate mapped
+12322 + 0 singletons (0.18% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
